@@ -1,6 +1,15 @@
 {
     "items": [
         {
+            "product_no":"2021011202","tdn_date":"20210112","tdn_no":"T21011201","truck_no":"000001","ord_thk":16,"ord_wid":1524,"wgt":21.996,"stdspec":"SSI HY370","len":117.3,"avg_thk":16.02,"avg_wid":1529.15,"sample_no":"1194270141","ys":403,"yp":null,"yl":null,"ts":523,"prod_unit_price":19500
+        },
+        {
+            "product_no":"2021011201","tdn_date":"20210112","tdn_no":"T21011201","truck_no":"000001","ord_thk":10,"ord_wid":1524,"wgt":10.722,"stdspec":"SSI HY370","len":85.7,"avg_thk":9.99,"avg_wid":1533.86,"sample_no":"1186710142","ys":484,"yp":484,"yl":437,"ts":547,"prod_unit_price":18500
+        },
+        {
+            "product_no":"2021011203","tdn_date":"20210113","tdn_no":"T21011202","truck_no":"000002","ord_thk":10,"ord_wid":1524,"wgt":10.722,"stdspec":"SSI HY370","len":85.7,"avg_thk":9.99,"avg_wid":1533.86,"sample_no":"1186710142","ys":484,"yp":484,"yl":437,"ts":547,"prod_unit_price":18500
+        },
+        {
             "product_no": "1186710142",
             "tdn_date": "20191216",
             "tdn_no": "T19121620",
