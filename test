@@ -486,9 +486,9 @@
         }
     ],
     "first": {
-        "$ref": "http://steelxdev.ssi-steel.com:8080/ords/stpssiapi/COIL_SHIP_TO_SBT/V1/API_BDT"
+        "$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test"
     },
     "next": {
-        "$ref": "http://steelxdev.ssi-steel.com:8080/ords/stpssiapi/COIL_SHIP_TO_SBT/V1/API_BDT?page=1"
+        "$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test?page=1"
     }
 }
