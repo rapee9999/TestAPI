@@ -58,6 +58,6 @@
             "prod_unit_price": 13300
         }
     ],
-    "first" : {"$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr" },
-    "next": {"$ref":"https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr"}
+    "first" : {"$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr_1" },
+    "next": {"$ref":"https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr_2"}
 }
