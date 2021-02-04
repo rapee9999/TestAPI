@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "product_no": "HRC0001",
+            "tdn_date": "20210201",
+            "tdn_no": "TDN21020001",
+            "truck_no": "000001",
+            "len": 111.111,
+            "avg_thk": 10.11,
+            "avg_wid": 1525.11,
+            "sample_no": "HRC0001",
+            "ys": 111,
+            "yp": 112,
+            "yl": 113,
+            "ts": 114,
+            "prod_unit_price": 11100
+        },
+        {
+            "product_no": "HRC0002",
+            "tdn_date": "20210201",
+            "tdn_no": "TDN21020001",
+            "truck_no": "000001",
+            "ord_thk": "10",
+            "ord_wid": null,
+            "wgt": true,
+            "stdspec": 370,
+            "len": 222.222,
+            "avg_thk": 10.22,
+            "avg_wid": 1522.22,
+            "sample_no": "HRC0001",
+            "ys": 221,
+            "yp": 222,
+            "yl": 223,
+            "ts": 224,
+            "prod_unit_price": 12200
+        }
+    ]
+}
