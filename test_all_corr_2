@@ -59,9 +59,9 @@
         }
     ],
     "first": {
-        "$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr"
+        "$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr_1"
     },
     "prev": {
-        "$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr"
+        "$ref": "https://raw.githubusercontent.com/rapee9999/TestAPI/master/test_all_corr_1"
     }
 }
