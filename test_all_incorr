@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "product_no": 111,
+            "tdn_date": 111,
+            "tdn_no": 111,
+            "truck_no": 111,
+            "ord_thk": "111",
+            "ord_wid": "111",
+            "wgt": "11.111",
+            "stdspec": True,
+            "len": True,
+            "avg_thk": False,
+            "avg_wid": False,
+            "sample_no": {"grd":"HRC0001"},
+            "ys": null,
+            "yp": null,
+            "yl": null,
+            "ts": null,
+            "prod_unit_price": null
+        },
+        {
+            "product_no": 222,
+            "tdn_date": 222,
+            "tdn_no": 222,
+            "truck_no": 222,
+            "ord_thk": "222",
+            "ord_wid": "222",
+            "wgt": "11.222",
+            "stdspec": False,
+            "len": False,
+            "avg_thk": True,
+            "avg_wid": True,
+            "sample_no": {"grd":"HRC0001"},
+            "ys": null,
+            "yp": null,
+            "yl": null,
+            "ts": null,
+            "prod_unit_price": null
+        }
+    ]
+}
